@@ -9,8 +9,8 @@ e o aplicativo irá informar qual dos combustíveis compensa mais ultilizar.
 
 ## Tecnologia utilizada
 
-Linguagem: Dart </br>
-Framework: Flutter </br>
+Linguagem: <strong>Dart</strong> </br>
+Framework: <strong>Flutter</strong> </br>
 API's: </br>
 
 # Informações do Projeto
